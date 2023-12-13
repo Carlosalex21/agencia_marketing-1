@@ -1,0 +1,9 @@
+#package 
+django==5.0
+django-environ==0.11.2
+django-cors-headers==4.3.1 #conexion entre backend y frontend
+djangorestframework==3.14.0
+Pillow==10.1.0 #Para poder trabajar con imagenes
+django-storages==1.14.2 #Guardar imagenes en AWS
+django-ckeditor==6.7.0  #Crear contenido reach(rica)
+psycopg2==2.9.9
